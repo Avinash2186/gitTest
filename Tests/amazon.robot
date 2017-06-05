@@ -12,7 +12,7 @@ ${DESIRED_CAPABILITIES} =  name:Win8 + Chrome 43,platform:Windows 8.1,browserNam
 
 *** Test Cases ***
 Simple Web GUI Test
-    [Documentation]  A simple Amazon.com test
+    [Documentation]  A simple Amazon.com test document update for git again
     [Tags]  Smoke
     Open Browser  ${START_URL}  ${BROWSER}  remote_url=${REMOTE_URL}  desired_capabilities=${DESIRED_CAPABILITIES}
     sleep  5s
