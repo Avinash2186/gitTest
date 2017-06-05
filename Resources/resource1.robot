@@ -1,0 +1,3 @@
+*** Settings ***
+# some stuff basic
+
