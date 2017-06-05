@@ -22,4 +22,7 @@ Simple Web GUI Test
     Wait Until Page Contains  results for
     Close Browser
 
+Feature 1 Test
+    Log feature1
+
 *** Keywords ***
