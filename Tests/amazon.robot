@@ -23,6 +23,6 @@ Simple Web GUI Test
     Close Browser
 
 Feature 1 Test
-    Log feature1
+    Log feature133333
 
 *** Keywords ***
