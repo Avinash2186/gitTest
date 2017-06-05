@@ -24,6 +24,6 @@ Simple Web GUI Test
     Close Browser
 
 Feature 1 Test
-    print "lenght of file is"
+    Log  featireds111
 
 *** Keywords ***
